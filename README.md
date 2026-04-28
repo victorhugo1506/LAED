@@ -41,7 +41,7 @@ Repositório criado e mantido por **Victor Hugo Lima Silva** para organizar os m
 
 ## 📋 Sobre a Disciplina
 
-O **Laboratório de Algoritmos e Estrutura de Dados (LAED)**, ministrado pelo **Prof. Dr. Thiago Bessa Pontes**, tem como objetivo proporcionar experiência prática na implementação e análise de algoritmos fundamentais e estruturas de dados clássicas da Ciência da Computação.
+O **Laboratório de Algoritmos e Estrutura de Dados (LAED)**, ministrado pelo **Prof. Dr. Thiago Bessa Pontes**, tem como objetivo proporcionar experiência prática na implementação e análise de algoritmos fundamentais e estruturas de dados clássicas da área da Computação.
 
 Toda a prática é realizada em **Python** utilizando o **Google Colab**, garantindo acessibilidade e praticidade — sem necessidade de instalação de nenhum software.
 
