@@ -22,7 +22,7 @@ ministrada pelo Prof. Dr. Thiago Bessa Pontes.
 
 ## 📖 Sobre
 
-Este repositório reúne as soluções das listas de exercícios da disciplina de **Algoritmos e Estrutura de Dados**, desenvolvidas ao longo do semestre. Os exercícios são implementados em **Python**, abordando desde conceitos básicos de programação até estruturas de dados mais complexas.
+Este repositório reúne as soluções das listas de exercícios da disciplina de **Laboratório de Algoritmos e Estrutura de Dados**, desenvolvidas ao longo do semestre. Os exercícios são implementados em **Python**, abordando desde conceitos básicos de programação até estruturas de dados mais complexas.
 
 ---
 
@@ -53,7 +53,7 @@ Algoritmos-e-Estrutura-de-Dados/
 
 ## 📝 Listas
 
-### Lista 1
+### Lista sobre Listas
 
 | Questão | Resolução |
 | ------- | ------ |
@@ -66,7 +66,7 @@ Algoritmos-e-Estrutura-de-Dados/
 | Questão 7 | ✅ |
 | Questão 8 | ✅ |
 
-### Lista 2
+### Lista sobre For
 
 | Questão | Resolução |
 | ------- | ------ |
@@ -108,7 +108,6 @@ python Questão1.py
 ## 🛠️ Tecnologias
 
 - **[Python 3](https://www.python.org/)** — Linguagem de alto nível, utilizada pela clareza e produtividade no desenvolvimento dos algoritmos.
-- **[GCC](https://gcc.gnu.org/)** — Compilador utilizado para os arquivos `.c`.
 - **[Git](https://git-scm.com/)** — Controle de versão do projeto.
 
 ---
