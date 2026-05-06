@@ -5,9 +5,12 @@ def encontrar_divisores(n):
             divisores.append(i)
     return divisores
 
-numero = int(input("Digite um número para ver se é primo: "))
+numero = int(input("Digite um número para ver se é um primo clássico: "))
 
-if(len(encontrar_divisores(numero)) == 2):
-    print(f"{numero} é um número primo.")
+if numero < 1:
+    print("Número inválido. Por favor, digite um número inteiro positivo.")
 else:
-    print(f"{numero} não é um número primo, seus divisores são: {encontrar_divisores(numero)}")
+    if(len(encontrar_divisores(numero)) == 2):
+        print(f"{numero} é um número primo clássico.")
+    else:
+        print(f"{numero} não é um número primo clássico, seus divisores são: {encontrar_divisores(numero)}")
