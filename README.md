@@ -104,8 +104,8 @@ Algoritmos-e-Estrutura-de-Dados/
 | Questão 9 | ✅ |
 | Questão 10 | ✅ |
 | Questão 11 | ✅ |
-| Questão 12 | ❌ |
-| Questão 13 | ❌ |
+| Questão 12 | ✅ |
+| Questão 13 | ✅ |
 | Questão 14 | ❌ |
 | Questão 15 | ❌ |
 | Questão 16 | ❌ |
