@@ -13,7 +13,10 @@ dobro_do_numero = 0
 for num in V:
     if num == numero_para_procurar * 2:
         dobro_do_numero = num
-
+        break
+    if num > numero_para_procurar * 2:
+        break
+    
 for num in V:
     if num == numero_para_procurar:
         print(f"{numero_para_procurar} foi encontrado")
